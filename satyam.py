@@ -126,3 +126,4 @@ if date_cell:
             print(f"Updated {vehicle_name}: Spends={Amount_spent}, Leads={Leads}")
 else:
     print("Date not found in the sheet.")
+    
