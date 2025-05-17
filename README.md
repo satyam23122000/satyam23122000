@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyam23122000](https://github.com/satyam23122000)
 
-- 💬 Ask me about **Python, SQL , Looker Studio ,**
+- 💬 Ask me about **Python, SQL , Looker Studio , Advance Excel ,Tableau, VBA**
 
 - 📫 How to reach me **satyamupadhyay2013@gmail.com**
 
